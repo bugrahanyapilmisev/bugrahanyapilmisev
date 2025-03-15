@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am junior Computer Science Student in Sabancı University, you can find my projects in my profile.
+
 <!--
 **bugrahanyapilmisev/bugrahanyapilmisev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
